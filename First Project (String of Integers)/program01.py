@@ -21,7 +21,6 @@ def ex1(int_seq, subtotal):
            
     return count                                        #ritorna la variabile count
 
-
 #Parte usata per debuggare il codice senza dover eseguire lo script di test
 if __name__ == '__main__':
     subtotal = 9
